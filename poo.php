@@ -24,3 +24,4 @@ $meu_carro -> acelerar(10);
 $meu_carro -> status ();
 
 $carro_vizinha = new Carro();
+//oijsriuvuh
